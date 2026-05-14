@@ -1,4 +1,4 @@
-# nvim-win-arm64
+# nvim-win-arm64.zip - Download Failed
 
 ---
 
@@ -6,25 +6,29 @@
 
 | Property | Value |
 |----------|-------|
-| **Original File** | `nvim-win-arm64.zip` |
-| **Size** | 12.38 MB |
-| **Status** | **Complete (100%)** |
-| **Password Protected** | **NO** |
+| **File** | `nvim-win-arm64.zip` |
+| **URL** | زیhttps://github.com/neovim/neovim/releases/download/v0.12.2/nvim-win-arm64.zip |
+| **Date** | 2026-05-14 04:07:18 UTC |
+| **Status** | **FAILED** |
 
 ---
 
-## Download Link
+## Error Details
 
-| File | Link |
-|------|------|
-| `nvim-win-arm64.zip` | [Download](https://github.com/ahb1390/UDL-3/raw/main/downloads/nvim-win-arm64/nvim-win-arm64.zip) |
+```
+Download failed after 3 attempts. Last error: curl: (3) URL rejected: Port number was not a decimal number between 0 and 65535
+```
 
 ---
 
-## How to Extract
+## Possible Solutions
 
-1. **Open** `nvim-win-arm64.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
-2. **Extract** the file
+- Check if the URL is correct and accessible
+- The file may have been removed or moved
+- The server may require authentication
+- For SourceForge: Try using the direct download link
+- Some servers block automated downloads (403 Forbidden)
+- Try again later if it is a temporary server issue
 
 ---
 
